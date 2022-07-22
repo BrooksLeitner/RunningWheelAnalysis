@@ -1,5 +1,5 @@
 # RunningWheelAnalysis
-Simple scripts for analyzing mouse running wheel data
+Simple scripts for analyzing mouse running wheel data from Columbus Instruments devices
 
 This data analysis should work for The Columbus Instruments Mouse Home Cage Running Wheel data, directly output from the software (no need for you to preprocess data before entry into analysis)
 
